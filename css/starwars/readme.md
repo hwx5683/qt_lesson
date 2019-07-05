@@ -2,8 +2,8 @@
 vscode 来自微软，内置了emmet插件
 - 使用css选择器来快速的语法
     1. 类名选择器 .className
-    2. > 父子选择器
-    3. + 兄弟选择器
+    2. \> 父子选择器
+    3. \+ 兄弟选择器
     4. [] 属性选择器
     .starwars-demo>img*2[scr="./images/"]
 
